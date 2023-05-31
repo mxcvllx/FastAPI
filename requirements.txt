@@ -1,3 +1,10 @@
-SQLAlchemy~=2.0.15
-fastapi~=0.95.2
+bcrypt==4.0.1
+email_validator==2.0.0.post2
+fastapi==0.95.2
+passlib==1.7.4
+psycopg2==2.9.6
+python-jose[cryptography]
+sqlalchemy==2.0.15
+uvicorn==0.22.0
 pydantic~=1.10.8
+starlette~=0.27.0
